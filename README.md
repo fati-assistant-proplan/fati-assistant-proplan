@@ -8,7 +8,7 @@ Esta conta GitHub é a conta institucional do projeto **Assistente PROPLAN UFPE*
 
 A conta **assistant-proplan** centraliza todos os recursos de infraestrutura e implantação do projeto. Os seguintes serviços estão vinculados exclusivamente a ela:
 
-- **GitHub**: repositório principal em [assistant-proplan/fati-assistant-proplan](https://github.com/fati-assistant-proplan/assistant-proplan) | Faça Login com o Google
+- **GitHub**: repositório principal em [fati-assistant-proplan/assistant-proplan](https://github.com/fati-assistant-proplan/assistant-proplan) | Faça Login com o Google
 - **Vercel**: conta e projeto de deploy contínuo vinculados a esta conta GitHub. | Faça Login com o Github
 - **Supabase**: projeto de banco de dados e autenticação vinculado a esta conta. | Faça Login com o Github
   
